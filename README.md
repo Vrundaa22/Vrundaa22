@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hey, I'm Vrunda:
 👋 Hi, I’m Vrunda Shah<br>👀 I’m interested in software development, design, and product management<br>🌱 I’m currently learning how to create intuitive user interfaces using Figma and improving my prototyping skills.<br>💞️ I’m looking to collaborate on innovative tech projects, app development, or design challenges<br>📫 How to reach me : email me @ vrundashah22@gmail.com<br>😄 Pronouns: she/her<br>⚡ Fun fact: I can solve the rubik's cube
 
 
